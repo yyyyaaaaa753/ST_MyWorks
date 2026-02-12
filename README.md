@@ -1,0 +1,2 @@
+# jsk-zigengxin
+用于存放我的sillytavern角色卡实现自动化更新的必备png及各项备份
